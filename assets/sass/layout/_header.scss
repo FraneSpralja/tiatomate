@@ -1,0 +1,15 @@
+.header {
+    background-color: $jelly-bean;
+    color: $white;
+    text-align: center;
+    padding: 10em;
+}
+
+.header--title {
+    font-size: $xx-large;
+    font-weight: $font-extra-light;
+}
+
+.header--title-bold {
+    font-weight: $font-bold;
+}

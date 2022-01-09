@@ -1,0 +1,167 @@
+/*ABSTRACTS*/
+.b-dark {
+  background-color: #91918D;
+}
+
+.b-light {
+  background-color: #FAFAFA;
+}
+
+.t-dark {
+  color: #686963;
+}
+
+.t-light {
+  color: #FAFAFA;
+}
+
+/*VENDORS*/
+/*BASE*/
+body {
+  padding: 0;
+  margin: 0;
+  text-align: none;
+  border: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+h1, h3, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+/*LAYOUT*/
+.nav {
+  padding: 1em 5em;
+  background-color: #fff;
+}
+
+.navbar-brand {
+  width: 15em;
+}
+
+.header {
+  background-color: #E56353;
+  color: #fff;
+  text-align: center;
+  padding: 10em;
+}
+
+.header--title {
+  font-size: 100px;
+  font-weight: 200;
+}
+
+.header--title-bold {
+  font-weight: 700;
+}
+
+.main {
+  text-align: center;
+  font-size: 18px;
+}
+
+.main__article {
+  padding: 5em 15em;
+}
+
+.main__article-img {
+  width: 90%;
+}
+
+.article__title {
+  font-size: 50px;
+}
+
+.article__text {
+  padding: 0 10em;
+  text-align: left;
+  font-size: 18px;
+}
+
+.main__about--title {
+  background-color: #E56353;
+  padding: 1em;
+  text-align: center;
+  color: #fff;
+  font-size: 50px;
+}
+
+.main__about--resumen {
+  padding: 2em 7em 0 7em;
+  text-align: center;
+}
+
+.about--resumen-img {
+  margin-top: 2em;
+  width: 30%;
+  height: 30%;
+}
+
+.about__body {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.about--resumen-text {
+  padding: 0 10em;
+  text-align: left;
+}
+
+.about--name {
+  font-size: 50px;
+}
+
+.main__contact {
+  background-color: #E56353;
+  padding: 5em 0;
+  text-align: center;
+  margin-top: 7em;
+}
+
+.contact--title {
+  color: #fff;
+  font-size: 70px;
+}
+
+.main__contact--button {
+  margin: 0 auto;
+}
+
+.footer {
+  padding: 7em;
+  text-align: center;
+}
+
+.footer__img {
+  width: 20%;
+}
+
+/*COMPONENTS*/
+.button {
+  height: 2em;
+  width: 10em;
+  display: block;
+  background-color: #fff;
+  border-radius: 70px;
+  border: 1px solid #686963;
+  font-size: 50px;
+  font-weight: 700;
+  margin: auto;
+}
+
+.btn--contact {
+  color: #686963;
+}
+
+/*THEMES*/
+/*SITES*/
+
+/*# sourceMappingURL=style.css.map */

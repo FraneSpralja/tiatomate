@@ -1,0 +1,15 @@
+.button {
+    height: 2em;
+    width: 10em;
+    display: block;
+    background-color: $white;
+    border-radius: 70px;
+    border: 1px solid $granite-gray;
+    font-size: $large;
+    font-weight: $font-bold;
+    margin: auto;
+}
+
+.btn--contact {
+    color: $granite-gray;
+}

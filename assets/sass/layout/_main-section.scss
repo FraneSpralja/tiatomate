@@ -1,0 +1,71 @@
+.main {
+    text-align: center;
+    font-size: $medium;
+}
+
+.main__article {
+    padding: 5em 15em;
+}
+
+.main__article-img {
+    width: 90%;
+}
+
+.article__title {
+    font-size: $large;
+}
+
+.article__text {
+    padding: 0 10em;
+    text-align: left;
+    font-size: $medium;
+}
+
+.main__about--title {
+    background-color: $jelly-bean;
+    padding: 1em;
+    text-align: center;
+    color: $white;
+    font-size: $large;
+}
+
+.main__about--resumen {
+    padding: 2em 7em 0 7em;
+    text-align: center;
+}
+
+.about--resumen-img {
+    margin-top: 2em;
+    width: 30%;
+    height: 30%;
+}
+
+.about__body {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.about--resumen-text {
+    padding: 0 10em;
+    text-align: left;
+}
+
+.about--name {
+    font-size: $large;
+}
+
+.main__contact {
+    background-color: $jelly-bean;
+    padding: 5em 0;
+    text-align: center;
+    margin-top: 7em;
+}
+
+.contact--title {
+    color: $white;
+    font-size: $x-large
+}
+
+.main__contact--button {
+    margin: 0 auto;
+}
